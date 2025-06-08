@@ -1,2 +1,2 @@
 #!/bin/bash
- cp /tmp/test_html/ *.html /holberschool-shell
+ cp .. /tmp/ *.html /holberschool-shell
