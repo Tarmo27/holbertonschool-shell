@@ -1,2 +1,2 @@
-Shell, basics 
-Create different directory for the write scriptes and give autorisation of the utilisator.   
+Shell, permission
+create to script for the path automatic for the facility   
