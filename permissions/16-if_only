@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x hello:vincent
+chmod +x 16-if_only
